@@ -5,7 +5,7 @@ Neste desafio você terá que usar o que aprendemos com Multithreading e APIs pa
 
 As duas requisições serão feitas simultaneamente para as seguintes APIs:
 
-https://cdn.apicep.com/file/apicep/" + cep + ".json
+https://brasilapi.com.br/api/cep/v1/" + cep + "
 http://viacep.com.br/ws/" + cep + "/json/
 
 Os requisitos para este desafio são:
